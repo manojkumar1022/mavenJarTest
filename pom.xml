@@ -6,7 +6,7 @@
 
     <groupId>io.github.manojkumar1022</groupId>
     <artifactId>mavenJarTest</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.1</version>
 
     <build>
         <plugins>
@@ -109,17 +109,17 @@
 
     <developers>
         <developer>
-            <name>Manfred Moser</name>
-            <email>manfred@sonatype.com</email>
+            <name>manoj Kumar</name>
+            <email>thefakeoneforuse@gmail.com</email>
             <organization>io.github.manojkumar1022</organization>
-            <organizationUrl>http://github.com/manojkumar1022/</organizationUrl>
+            <organizationUrl>https://github.com/manojkumar1022/</organizationUrl>
         </developer>
     </developers>
 
     <scm>
         <connection>scm:git:git://github.com/manojkumar1022/mavenJarTest.git</connection>
         <developerConnection>scm:git:ssh://github.com:manojkumar1022/mavenJarTest.git</developerConnection>
-        <url>http://github.com/manojkumar1022/mavenJarTest</url>
+        <url>https://github.com/manojkumar1022/mavenJarTest</url>
     </scm>
 
 
